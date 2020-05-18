@@ -1953,6 +1953,7 @@ disclaimer_map:
 //==============================================================================
 
 .include "m2-localize.asm"
+.include "m12-audio.asm"
 
 .org 0x80FCE6C
 .include "syscalls.asm"
